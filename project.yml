@@ -47,7 +47,7 @@ homepage:
           url: /task-view-e-series.html
         - title: Remove E-Series
           url: /task-remove-e-series.html
-    - title: More information
+    - title: Related links
       links:
         - title: E-Series documentation for management outside of Cloud Manager
           url: https://docs.netapp.com/us-en/e-series-family/
