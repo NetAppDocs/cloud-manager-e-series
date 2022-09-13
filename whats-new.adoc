@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar
 permalink: whats-new.html
-keywords: what's new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes, storagegrid
-summary: Learn what's new with managing StorageGRID systems in Cloud Manager.
+keywords: what's new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes, e-series
+summary: Learn what's new with managing E-Series systems in Cloud Manager.
 ---
 
 = What's new with E-Series management

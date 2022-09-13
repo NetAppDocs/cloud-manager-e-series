@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: task-view-e-series.html
 keywords: e-series, cluster, view, volumes, hosts, management ip, serial number, system id, capacity, allocated capacity
-summary: After you discover your StorageGRID systems, you can view details about capacity distribution and the associated alerts, nodes, and tenants.
+summary: After you discover your E-Series systems, you can view details about capacity distribution, volumes, and hosts.
 ---
 
 = View your E-Series systems
