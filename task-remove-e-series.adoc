@@ -1,0 +1,26 @@
+---
+sidebar: sidebar
+permalink: task-remove-e-series.html
+keywords: e-series, remove, delete, remove e-series, delete cluster, delete working environment, remove working environment
+summary: Remove an E-Series working environment if you no longer want to manage it from Cloud Manager.
+---
+
+= Remove an E-Series working environment
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Remove an E-Series working environment if you no longer want to manage it from Cloud Manager.
+
+Removing the working environment doesn't affect the E-Series system. You can rediscover it from Cloud Manager at any time.
+
+.Steps
+
+. From the Canvas, double-click the name of the E-Series working environment.
+
+. Click the menu icon and select *Remove from Workspace*.
+
+. Click *Remove* to confirm.

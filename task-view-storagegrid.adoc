@@ -1,0 +1,25 @@
+---
+sidebar: sidebar
+permalink: task-view-e-series.html
+keywords: e-series, cluster, view, volumes, hosts, management ip, serial number, system id, capacity, allocated capacity
+summary: After you discover your StorageGRID systems, you can view details about capacity distribution and the associated alerts, nodes, and tenants.
+---
+
+= View your E-Series systems
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+After you discover your E-Series systems, you can view details about capacity distribution, volumes, and hosts.
+
+.Steps
+
+. From the Canvas, double-click the name of the E-Series working environment that you want to view.
+
+. Select any of the tabs to view more details about your E-Series system:
++
+* *Overview*: A detailed view of the system's capacity distribution (allocated, free, and unassigned capacity), the number of volumes, hosts, and more.
+* *Volumes*: Details about the volumes on the system, including assignment, RAID level, allocated capacity, and more.
+* *Hosts*: Details about the hosts that... <ask Sasha how these hosts are related to the system>

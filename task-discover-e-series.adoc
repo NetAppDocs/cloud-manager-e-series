@@ -1,0 +1,41 @@
+---
+sidebar: sidebar
+permalink: task-discover-e-series.html
+keywords: e-series, cluster, discover, manage, discovering, discover e-series
+summary: Cloud Manager can discover the E-Series storage systems in your on-premises environment. Adding E-Series systems to Cloud Manager enables you to get a complete view of the data across your hybrid multicloud.
+---
+
+= Discover E-Series storage systems
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+Cloud Manager can discover the E-Series storage systems in your on-premises environment. Adding E-Series systems to Cloud Manager enables you to get a complete view of the data across your hybrid multicloud.
+
+.What you'll need
+
+* A Connector installed in a cloud provider or on your premises, with network connectivity to the E-Series storage system.
++
+https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html[Learn more about Connectors and how to create one^]
+
+* The domain name or IP address of the storage system controller.
+
+* Admin credentials for the system.
+
+.Steps
+
+. From the Canvas, click *Add Working Environment* and select *On-Premises*.
+
+. Select *E-Series* and click *Next*.
+
+. If you're prompted, create a Connector.
++
+Refer to the links above for more details.
+
+. On the _E-Series Cluster Details_ page, enter the domain name or IP address of the storage system controller, admin credentials for the system, and then click *Add*.
+
+.Result
+
+Cloud Manager discovers the E-Series storage system and adds it as a working environment on the Canvas.
