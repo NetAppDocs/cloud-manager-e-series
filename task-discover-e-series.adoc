@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: task-discover-e-series.html
 keywords: e-series, cluster, discover, manage, discovering, discover e-series
-summary: Cloud Manager can discover the E-Series storage systems in your on-premises environment. Adding E-Series systems to Cloud Manager enables you to get a complete view of the data across your hybrid multicloud.
+summary: BlueXP can discover the E-Series storage systems in your on-premises environment. Adding E-Series systems to BlueXP enables you to get a complete view of the data across your hybrid multicloud.
 ---
 
 = Discover E-Series storage systems
@@ -12,7 +12,7 @@ summary: Cloud Manager can discover the E-Series storage systems in your on-prem
 :linkattrs:
 :imagesdir: ./media/
 
-Cloud Manager can discover the E-Series storage systems in your on-premises environment. Adding E-Series systems to Cloud Manager enables you to get a complete view of the data across your hybrid multicloud.
+BlueXP can discover the E-Series storage systems in your on-premises environment. Adding E-Series systems to BlueXP enables you to get a complete view of the data across your hybrid multicloud.
 
 .What you'll need
 
@@ -25,6 +25,8 @@ https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html[
 * Admin credentials for the system.
 
 .Steps
+
+. From the navigation menu, select *Storage > Canvas*.
 
 . From the Canvas, click *Add Working Environment* and select *On-Premises*.
 
@@ -40,6 +42,6 @@ image:screenshot-cluster-details.png[A screenshot that shows the E-Series Cluste
 
 .Result
 
-Cloud Manager discovers the E-Series storage system and adds it as a working environment on the Canvas.
+BlueXP discovers the E-Series storage system and adds it as a working environment on the Canvas.
 
-image:screenshot-canvas.png[A screenshot that shows an E-Series working environment on the Cloud Manager Canvas.]
+image:screenshot-canvas.png[A screenshot that shows an E-Series working environment on the BlueXP Canvas.]
